@@ -18,11 +18,6 @@
 
 Java Backend Developer specializing in **event-driven architecture**, **distributed systems**, and **search & caching at scale**. I ship production code end-to-end — from system design to deployment.
 
-- Delivered a tourism platform handling **1M+ daily requests** and **40K+ users**
-- Integrated **4 international travel providers** via REST APIs
-- Reduced third-party API costs by **~$400/month** via multi-tier Redis caching
-- Achieved **3x search performance** improvement with Elasticsearch
-
 ---
 
 ### Tech Stack
